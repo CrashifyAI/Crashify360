@@ -567,9 +567,8 @@ This is a proof-of-concept system for demonstration purposes.
 ## 📞 Support
 
 For questions or issues:
-- Email: support@crashify360.example
-- Documentation: https://docs.crashify360.example
-- GitHub Issues: https://github.com/yourusername/crashify360-poc/issues
+- Email: info@crashify.com.au
+
 
 ---
 
