@@ -558,7 +558,7 @@ This is a proof-of-concept system. For production use:
 
 ## 📄 License
 
-Copyright © 2025 Crashify360. All rights reserved.
+Copyright © 2025 Crashify Pty Ltd. All rights reserved.
 
 This is a proof-of-concept system for demonstration purposes.
 
@@ -568,6 +568,7 @@ This is a proof-of-concept system for demonstration purposes.
 
 For questions or issues:
 - Email: info@crashify.com.au
+- Web : https://www.crashify.com.au/
 
 
 ---
