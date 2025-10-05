@@ -1,0 +1,41 @@
+# Crashify360 - Python Dependencies
+
+# Core Framework
+streamlit>=1.28.0
+
+# HTTP and API
+requests>=2.31.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# SMS/Phone Notifications
+twilio>=8.10.0
+
+# Email (built-in, but specifying for completeness)
+# smtplib - standard library
+
+# Data Handling
+pandas>=2.1.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Logging (enhanced)
+colorlog>=6.7.0
+
+# Optional: Excel support for batch imports
+openpyxl>=3.1.2
+xlrd>=2.0.1
+
+# Optional: PDF generation for reports
+reportlab>=4.0.0
+
+# Optional: Advanced data validation
+pydantic>=2.4.0
+
+# Development Tools (optional)
+black>=23.10.0  # Code formatter
+flake8>=6.1.0   # Linter
+mypy>=1.6.0     # Type checker
